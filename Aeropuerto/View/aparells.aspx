@@ -1,5 +1,7 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="aparells.aspx.vb" Inherits="Aeropuerto.aparells" %>
 
+<%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="cc1" %>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -64,7 +66,11 @@
     <br />
     <asp:Button ID="Button1" runat="server" style="height: 26px" Text="Insertar" />
     <p>
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
         <asp:Button ID="Button2" runat="server" Text="Tornar" />
+        <cc1:ConfirmButtonExtender ID="Button2_ConfirmButtonExtender" runat="server" 
+            TargetControlID="Button2" ConfirmText="deseas volver??"/>
     </p>
     </form>
 </body>

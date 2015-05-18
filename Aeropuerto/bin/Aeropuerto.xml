@@ -6,7 +6,183 @@ Aeropuerto
 </name>
 </assembly>
 <members>
-<member name="P:Aeropuerto.My.MyWebExtension.Application">
+<member name="F:Aeropuerto.Index.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.Index.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.Index.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.Index.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.Index.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.Index.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.Index.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.Index.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.Index.Button3">
+	<summary>
+Button3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.Index.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.TextBox1">
+	<summary>
+Control TextBox1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.TextBox2">
+	<summary>
+Control TextBox2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.TextBox3">
+	<summary>
+Control TextBox3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.Button1">
+	<summary>
+Control Button1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.aparells.Button2">
+	<summary>
+Control Button2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:Aeropuerto.My.MyWebExtension.Application">
 	<summary>
  Devuelve información sobre la aplicación actual.
  </summary>
@@ -39,6 +215,178 @@ Aeropuerto
  Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
  </summary>
 	<remarks></remarks>
+</member><member name="M:Aeropuerto.sauce.WebService1.#ctor">
+	<remarks/>
+</member><member name="E:Aeropuerto.sauce.WebService1.HelloWorldCompleted">
+	<remarks/>
+</member><member name="E:Aeropuerto.sauce.WebService1.getAparatoCompleted">
+	<remarks/>
+</member><member name="M:Aeropuerto.sauce.WebService1.HelloWorld">
+	<remarks/>
+</member><member name="M:Aeropuerto.sauce.WebService1.HelloWorldAsync">
+	<remarks/>
+</member><member name="M:Aeropuerto.sauce.WebService1.HelloWorldAsync(System.Object)">
+	<remarks/>
+</member><member name="M:Aeropuerto.sauce.WebService1.getAparato">
+	<remarks/>
+</member><member name="M:Aeropuerto.sauce.WebService1.getAparatoAsync">
+	<remarks/>
+</member><member name="M:Aeropuerto.sauce.WebService1.getAparatoAsync(System.Object)">
+	<remarks/>
+</member><member name="M:Aeropuerto.sauce.WebService1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Aeropuerto.sauce.WebService1">
+	<remarks/>
+</member><member name="P:Aeropuerto.sauce.Aparato.pIdAparell">
+	<comentarios/>
+</member><member name="P:Aeropuerto.sauce.Aparato.pLongitud">
+	<comentarios/>
+</member><member name="P:Aeropuerto.sauce.Aparato.pPes">
+	<comentarios/>
+</member><member name="P:Aeropuerto.sauce.Aparato.pConsumHora">
+	<comentarios/>
+</member><member name="T:Aeropuerto.sauce.Aparato">
+	<comentarios/>
+</member><member name="T:Aeropuerto.sauce.HelloWorldCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Aeropuerto.sauce.HelloWorldCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Aeropuerto.sauce.HelloWorldCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Aeropuerto.sauce.getAparatoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Aeropuerto.sauce.getAparatoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Aeropuerto.sauce.getAparatoCompletedEventArgs">
+	<remarks/>
+</member><member name="F:Aeropuerto.vols.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.TextBox5">
+	<summary>
+Control TextBox5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.Label5">
+	<summary>
+Control Label5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.SqlDataSource2">
+	<summary>
+Control SqlDataSource2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.DropDownList2">
+	<summary>
+Control DropDownList2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.SqlDataSource3">
+	<summary>
+Control SqlDataSource3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.TextBox4">
+	<summary>
+Control TextBox4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.Button2">
+	<summary>
+Control Button2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.vols.Button3">
+	<summary>
+Control Button3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:Aeropuerto.ChangePassword.ChangeUserPassword">
 	<summary>
 Control ChangeUserPassword.
@@ -127,482 +475,166 @@ Control MainContent.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Aeropuerto.Index.form1">
-	<summary>
-form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.Index.Label1">
-	<summary>
-Label1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.Index.Label2">
-	<summary>
-Label2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.Index.DropDownList1">
-	<summary>
-DropDownList1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.Index.SqlDataSource1">
-	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.Index.Button1">
-	<summary>
-Button1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.Index.Label3">
-	<summary>
-Label3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.Index.Button2">
-	<summary>
-Button2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.Index.Button3">
-	<summary>
-Button3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.Index.Button4">
-	<summary>
-Button4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
 </member><member name="F:Aeropuerto.Pilots.form1">
 	<summary>
-form1 control.
+Control form1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.GridView1">
 	<summary>
-GridView1 control.
+Control GridView1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.SqlDataSource1">
 	<summary>
-SqlDataSource1 control.
+Control SqlDataSource1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.TextBox8">
 	<summary>
-TextBox8 control.
+Control TextBox8.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.Label1">
 	<summary>
-Label1 control.
+Control Label1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.TextBox2">
 	<summary>
-TextBox2 control.
+Control TextBox2.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.Label2">
 	<summary>
-Label2 control.
+Control Label2.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.TextBox3">
 	<summary>
-TextBox3 control.
+Control TextBox3.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.Label3">
 	<summary>
-Label3 control.
+Control Label3.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.TextBox4">
 	<summary>
-TextBox4 control.
+Control TextBox4.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.Label4">
 	<summary>
-Label4 control.
+Control Label4.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.TextBox5">
 	<summary>
-TextBox5 control.
+Control TextBox5.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.Label5">
 	<summary>
-Label5 control.
+Control Label5.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.TextBox6">
 	<summary>
-TextBox6 control.
+Control TextBox6.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.Label6">
 	<summary>
-Label6 control.
+Control Label6.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.TextBox7">
 	<summary>
-TextBox7 control.
+Control TextBox7.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.Label7">
 	<summary>
-Label7 control.
+Control Label7.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.Button1">
 	<summary>
-Button1 control.
+Control Button1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Aeropuerto.Pilots.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Aeropuerto.Pilots.Button2">
 	<summary>
-Button2 control.
+Control Button2.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Aeropuerto.aparells.form1">
-	<summary>
-form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.GridView1">
-	<summary>
-GridView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.SqlDataSource1">
-	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.TextBox1">
-	<summary>
-TextBox1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.Label1">
-	<summary>
-Label1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.TextBox2">
-	<summary>
-TextBox2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.Label2">
-	<summary>
-Label2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.TextBox3">
-	<summary>
-TextBox3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.Label3">
-	<summary>
-Label3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.Button1">
-	<summary>
-Button1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.aparells.Button2">
-	<summary>
-Button2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.form1">
-	<summary>
-form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.GridView1">
-	<summary>
-GridView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.SqlDataSource1">
-	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.Calendar1">
-	<summary>
-Calendar1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.DropDownList1">
-	<summary>
-DropDownList1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.SqlDataSource2">
-	<summary>
-SqlDataSource2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.Label2">
-	<summary>
-Label2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.DropDownList2">
-	<summary>
-DropDownList2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.SqlDataSource3">
-	<summary>
-SqlDataSource3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.Label3">
-	<summary>
-Label3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.TextBox4">
-	<summary>
-TextBox4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.Label4">
-	<summary>
-Label4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.Button2">
-	<summary>
-Button2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Aeropuerto.vols.Button3">
-	<summary>
-Button3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="M:Aeropuerto.sauce.WebService1.#ctor">
-	<remarks/>
-</member><member name="E:Aeropuerto.sauce.WebService1.HelloWorldCompleted">
-	<remarks/>
-</member><member name="E:Aeropuerto.sauce.WebService1.getAparatoCompleted">
-	<remarks/>
-</member><member name="M:Aeropuerto.sauce.WebService1.HelloWorld">
-	<remarks/>
-</member><member name="M:Aeropuerto.sauce.WebService1.HelloWorldAsync">
-	<remarks/>
-</member><member name="M:Aeropuerto.sauce.WebService1.HelloWorldAsync(System.Object)">
-	<remarks/>
-</member><member name="M:Aeropuerto.sauce.WebService1.getAparato">
-	<remarks/>
-</member><member name="M:Aeropuerto.sauce.WebService1.getAparatoAsync">
-	<remarks/>
-</member><member name="M:Aeropuerto.sauce.WebService1.getAparatoAsync(System.Object)">
-	<remarks/>
-</member><member name="M:Aeropuerto.sauce.WebService1.CancelAsync(System.Object)">
-	<remarks/>
-</member><member name="T:Aeropuerto.sauce.WebService1">
-	<remarks/>
-</member><member name="P:Aeropuerto.sauce.Aparato.pIdAparell">
-	<comentarios/>
-</member><member name="P:Aeropuerto.sauce.Aparato.pLongitud">
-	<comentarios/>
-</member><member name="P:Aeropuerto.sauce.Aparato.pPes">
-	<comentarios/>
-</member><member name="P:Aeropuerto.sauce.Aparato.pConsumHora">
-	<comentarios/>
-</member><member name="T:Aeropuerto.sauce.Aparato">
-	<comentarios/>
-</member><member name="T:Aeropuerto.sauce.HelloWorldCompletedEventHandler">
-	<remarks/>
-</member><member name="P:Aeropuerto.sauce.HelloWorldCompletedEventArgs.Result">
-	<remarks/>
-</member><member name="T:Aeropuerto.sauce.HelloWorldCompletedEventArgs">
-	<remarks/>
-</member><member name="T:Aeropuerto.sauce.getAparatoCompletedEventHandler">
-	<remarks/>
-</member><member name="P:Aeropuerto.sauce.getAparatoCompletedEventArgs.Result">
-	<remarks/>
-</member><member name="T:Aeropuerto.sauce.getAparatoCompletedEventArgs">
-	<remarks/>
 </member>
 </members>
 </doc>

@@ -1,5 +1,7 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="vols.aspx.vb" Inherits="Aeropuerto.vols" %>
 
+<%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="cc1" %>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -56,9 +58,15 @@
     
     </div>
     <br />
-    <asp:Calendar ID="Calendar1" runat="server" SelectedDate="05/17/2015 22:49:17" 
-        VisibleDate="2015-05-17">
-    </asp:Calendar>
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+    <cc1:CalendarExtender ID="TextBox5_CalendarExtender" runat="server" 
+        TargetControlID="TextBox5" Format="dd/MM/yyyy" />
+&nbsp;&nbsp;&nbsp;
+    <asp:Label ID="Label5" runat="server" Text="Data Vol"></asp:Label>
+    <br />
+    <br />
     <br />
     <asp:DropDownList ID="DropDownList1" runat="server" 
         DataSourceID="SqlDataSource2" DataTextField="idAparell" 
@@ -88,6 +96,8 @@
     <asp:Button ID="Button2" runat="server" Text="Insertar" />
     <p>
         <asp:Button ID="Button3" runat="server" Text="Tornar" />
+        <cc1:ConfirmButtonExtender ID="Button3_ConfirmButtonExtender" runat="server" 
+            TargetControlID="Button3" ConfirmText="deseas volver??"/>
     </p>
     </form>
 </body>

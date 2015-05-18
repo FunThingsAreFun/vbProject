@@ -30,3 +30,11 @@ C:\Users\Sergio\Dropbox\Sergio\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.vbproj
 C:\Users\Sergio\Dropbox\Sergio\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.dll
 C:\Users\Sergio\Dropbox\Sergio\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.xml
 C:\Users\Sergio\Dropbox\Sergio\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.pdb
+C:\Users\sergio\Documents\GitHub\vbProject\Aeropuerto\bin\Aeropuerto.dll
+C:\Users\sergio\Documents\GitHub\vbProject\Aeropuerto\bin\Aeropuerto.pdb
+C:\Users\sergio\Documents\GitHub\vbProject\Aeropuerto\bin\Aeropuerto.xml
+C:\Users\sergio\Documents\GitHub\vbProject\Aeropuerto\obj\Debug\Aeropuerto.Resources.resources
+C:\Users\sergio\Documents\GitHub\vbProject\Aeropuerto\obj\Debug\Aeropuerto.vbproj.GenerateResource.Cache
+C:\Users\sergio\Documents\GitHub\vbProject\Aeropuerto\obj\Debug\Aeropuerto.dll
+C:\Users\sergio\Documents\GitHub\vbProject\Aeropuerto\obj\Debug\Aeropuerto.xml
+C:\Users\sergio\Documents\GitHub\vbProject\Aeropuerto\obj\Debug\Aeropuerto.pdb

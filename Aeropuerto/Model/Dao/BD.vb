@@ -36,7 +36,7 @@ Public Class BD
         command.Parameters.Add(New SqlParameter("@DuradaVol", SqlDbType.Float))
         command.Parameters("@DuradaVol").Value = nDuradaVol
 
-        command.Parameters.Add(New SqlParameter("@NIFPilot", SqlDbType.Int))
+        command.Parameters.Add(New SqlParameter("@NIFPilot", SqlDbType.Char))
         command.Parameters("@NIFPilot").Value = nNIFPilot
 
         command.CommandText = "StoredProcedure2"
